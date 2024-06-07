@@ -38,7 +38,7 @@ title jack Spoofer 1.1.0 - Developed By jackkkkk https://discord.gg/fDd6TSpGey
 	
 	if %privilege_level% neq administrator (
 		echo.
-		call colorchar.exe /0c " Administrator Privileges required to use this program..."
+		call colorchar.exe /0c " 管理者実行してください"
 		echo.
 		timeout /t 3 >nul
 		exit
