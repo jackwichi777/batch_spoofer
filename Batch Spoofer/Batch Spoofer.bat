@@ -1,5 +1,5 @@
 @echo off
-title Batch Spoofer 1.1.0 - Developed By jackkkkk
+title jack Spoofer 1.1.0 - Developed By jackkkkk
 	cls
 	set interface_admin_state=Not Selected
 	set interface_registry_location=Not Selected
