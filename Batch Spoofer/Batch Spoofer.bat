@@ -1,5 +1,5 @@
 @echo off
-title jack Spoofer 1.1.0 - Developed By jackkkkk
+title jack Spoofer 1.1.0 - Developed By jackkkkk https://discord.gg/fDd6TSpGey
 	cls
 	set interface_admin_state=Not Selected
 	set interface_registry_location=Not Selected
@@ -110,7 +110,7 @@ title jack Spoofer 1.1.0 - Developed By jackkkkk
 	:skip_interface_management_check
 	cls
 	echo.
-	call colorchar.exe /0b "  Batch Spoofer - Developed By TUX"
+	call colorchar.exe /0b "  jack Spoofer - Developed By jackkkkkk"
 	echo.                                                             
 	echo.
 	echo.
